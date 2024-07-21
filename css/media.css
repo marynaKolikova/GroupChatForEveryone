@@ -1,0 +1,7 @@
+@import url(style.css);
+
+@media (max-width: 1230px) {
+  .group article {
+    padding-top: 358px;
+  }
+}
